@@ -1,6 +1,6 @@
 import unittest
-import nama
 import settings
+import nama
 
 
 class TestCaseNama(unittest.TestCase):

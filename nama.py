@@ -1,4 +1,3 @@
-# from settings import MULTIPLES, RANGE_PRINT
 import settings
 
 
