@@ -14,9 +14,9 @@ def nama_numbers():
     """Return a string with number and respective word of multiples.
 
     The first values of the even indices will be incremented by '.'
-    in relation to the size of the previous index and
+    in relation to the size of the previous index plus 1 and
     the latest values will be add "."
-    in relation of items from your list
+    in relation of items from your list plus 1
     """
     result = []
     for numbers in settings.RANGE_PRINT:
