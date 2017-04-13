@@ -14,7 +14,7 @@ O formato de impressão dos números precisa ser **EXATAMENTE** igual a esse:
 $ python3 -m unittest discover
 ```
 
-## Formatação de Código
+## Formatação do Código
 
 É necessário instalar a lib flake8
 
